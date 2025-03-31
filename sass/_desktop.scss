@@ -1,0 +1,16 @@
+.section-article-innerArticle{
+  flex-direction: row;
+  border: 2px solid rgba(3, 3, 3, 0.87);
+  gap: 3rem;
+  margin: 10px;
+}
+
+.section-article-div{
+  display: inline-flex;
+  flex-direction: column;
+  margin-top: 0;
+  margin-left: 1rem;
+  margin-right: 7rem;
+  gap: 2rem;
+}
+
